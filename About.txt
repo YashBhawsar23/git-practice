@@ -1,3 +1,4 @@
 Learning Git
 Day 1 practice
 
+Git is powerful
